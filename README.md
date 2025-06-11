@@ -21,4 +21,4 @@ Popmotion kökenli, hafif ve kullanımı kolay bir animasyon kütüphanesi olmas
 
 # Proje Özeti
 
-Bu proje, modern bir seyahat ve turizm web sitesi olarak React ve Vite kullanılarak geliştirilmiştir. Arayüz tasarımında Bootstrap ve özel CSS dosyaları kullanılmıştır. Projede animasyonlar için Framer Motion, slider ve carousel bileşenleri için Swiper ve Splide kütüphaneleri tercih edilmiştir. Görsel ve medya içerikleri için public klasöründe çeşitli resimler ve varlıklar yer almaktadır. Proje, kullanıcı dostu ve dinamik bir deneyim sunmak amacıyla bileşen tabanlı bir mimariyle hazırlanmıştır.
+Bu proje, modern bir seyahat ve turizm web sitesi olarak React ve Vite kullanılarak geliştirilmiştir. Arayüz tasarımında Bootstrap ve özel CSS dosyaları kullanılmıştır. Projede animasyonlar için Framer Motion, slider ve carousel bileşenleri için Swiper ve Splide kütüphaneleri tercih edilmiştir. Görsel ve medya içerikleri için public klasöründe çeşitli resimler ve varlıklar yer almaktadır. Proje, kullanıcı dostu ve dinamik bir deneyim sunmak amacıyla bileşen tabanlı bir mimariyle hazırlanmıştır.# Travel
