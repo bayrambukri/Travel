@@ -1,11 +1,11 @@
 # React + Vite
 
 - Bu seyahat projesinde react- vite ile oluşturuldu.
-- 
+
 - Stillendirme için de bootstrap kütüphanesi kullanıldı. Ayrıca css de kullanıldı.
-- 
+
 - Animasyonlar için splide kütüphanesi kullanıldı.  Swiper modern, dinamik ve etkileşimli içerik sunmak için slider kütüphanesi de kullanıldı.
-- 
+
 - React tabanlı bileşenler için güçlü, deklaratif animasyonlar oluşturmayı sağlayan bir kütüphane olması ve
 Geçişler, animasyon durumları ve etkileşimlere dayalı hareket efektlerini kolayca tanımlamanıza olanak tanıdığı için **Framer Motion** kütüphanesi de kullanıldı. 
 
@@ -20,3 +20,8 @@ Geçişler, animasyon durumları ve etkileşimlere dayalı hareket efektlerini k
 # Proje Özeti
 
 Bu proje, modern bir seyahat ve turizm web sitesi olarak React ve Vite kullanılarak geliştirilmiştir. Arayüz tasarımında Bootstrap ve özel CSS dosyaları kullanılmıştır. Projede animasyonlar için Framer Motion, slider ve carousel bileşenleri için Swiper ve Splide kütüphaneleri tercih edilmiştir. Görsel ve medya içerikleri için public klasöründe çeşitli resimler ve varlıklar yer almaktadır. Proje, kullanıcı dostu ve dinamik bir deneyim sunmak amacıyla bileşen tabanlı bir mimariyle hazırlanmıştır.
+
+
+
+https://github.com/user-attachments/assets/55bfc340-f823-4b73-97d5-3c937039816f
+
